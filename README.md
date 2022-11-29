@@ -2,7 +2,7 @@
 
 ### Previews
 
-<img src="https://raw.githubusercontent.com/azrov/BakuIPTVPanel/main/previews/HOME.png">
+<img src="https://raw.githubusercontent.com/azrov/BakuIPTVPanel/main/previews/DASHBOARD.png">
 
 <img src="https://raw.githubusercontent.com/azrov/BakuIPTVPanel/main/previews/CHANNELS.png">
 
